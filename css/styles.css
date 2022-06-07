@@ -11418,7 +11418,7 @@ header.masthead {
   text-align: center;
   color: #fff;
   /*background-image: url("../assets/img/header-bg.jpg");*/
-  background: rgb(4 42 60 / 50%);
+  background: rgb(4 42 60 / 45%);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11806,7 +11806,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 .bg-video {
   position: fixed;
-  top: 45%;
+  top: 50%;
   left: 50%;
   min-width: 100%;
   min-height: 100%;
